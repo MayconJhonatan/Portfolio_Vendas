@@ -8,7 +8,7 @@ Principais problemas relatados pelo cliente:<br>
 <br>
 <a href="https://app.powerbi.com/reportEmbed?reportId=a820042d-2311-463c-8228-c5321a413733&autoAuth=true&ctid=9eb08943-dd35-493d-9e7a-37d444bb40eb" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
-<a href="https://github.com/KarolayneJOliveira/Portfolio_RH" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/MayconJhonatan/Portfolio_Vendas" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
 
