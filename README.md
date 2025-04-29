@@ -1,4 +1,4 @@
-## Análise da rotatividade dos colaboradores
+## Análise das vendas e faturamento
 <img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Vendas/blob/main/Desing/Dashboard%20Vendas%20-%20performance.png?raw=true">
 Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores da rotatividade dos colaboradores, proporcionando análises dinâmicas e de fácil compreensão por meio de visualizações gráficas.<br>
 Principais problemas relatados pelo cliente:<br>
@@ -12,7 +12,7 @@ Principais problemas relatados pelo cliente:<br>
 
 <br><br>
 
-## Performance dos colaboradores
+## Detalhamento das vendas
 <img align="left" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Vendas/blob/main/Desing/Dashboard%20Vendas%20detalhamento.png?raw=true">
 A segunda parte do projeto apresenta a análise da performance dos colaboradores, abordando os seguintes tópicos:<br>
 - Tipos de recrutamento adotados;<br>
