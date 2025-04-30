@@ -1,6 +1,6 @@
 ## Análise das vendas e faturamento
 <img align="right" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Vendas/blob/main/Desing/Dashboard%20Vendas%20-%20performance.png?raw=true">
-Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores de vendas ......, proporcionando análises dinâmicas para facilitar na tomada de decisões.<br>
+Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores do não atingimento da meta, proporcionando análises dinâmicas para facilitar na tomada de decisões.<br>
 Principais problemas relatados pelo cliente:<br>
 - Dificuldade em atingir a meta estabelecida;<br>
 - Dificuldade na clareza dos pontos de falha;<br>
@@ -14,13 +14,13 @@ Principais problemas relatados pelo cliente:<br>
 
 ## Detalhamento das vendas
 <img align="left" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Vendas/blob/main/Desing/Dashboard%20Vendas%20detalhamento.png?raw=true">
-A segunda parte do projeto apresenta o detalhamento das vendas,................... abordando os seguintes tópicos:<br>
-- Vendedor;<br>
-- Categoria;<br>
-- Loja;<br>
-- Quantidade;<br>
-- Produto.<br> 
-Estes tópicos foram necessários para identificar ............
+A segunda parte do projeto apresenta o detalhamento das vendas, abordando os seguintes tópicos:<br>
+- Vendedores;<br>
+- Categorias;<br>
+- Lojas;<br>
+- Quantidades de itens vendidos;<br>
+- Produtos.<br> 
+Estes tópicos foram necessários para destrinchar os valores por categoria e facilitar a visualização dos diretores.
 
 <br><br><br><br>
 
@@ -31,7 +31,7 @@ A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, cont
 - Data da compra, quantidade vendida, valor da compra, ;<br>
 - Vendedor, cliente novo ou recompra, forma de pagamento e loja.<br>
 
-Após analisar as essas informações, foram identificados os principais pontos a serem abordados e definida as métricas e medidas necessárias para solucionar os problemas relatados pelo cliente. 
+Após analisar as essas informações, foram identificados os principais pontos a serem abordados e definida as métricas necessárias para solucionar os problemas relatados pelo cliente. 
 
 <br><br>
 
