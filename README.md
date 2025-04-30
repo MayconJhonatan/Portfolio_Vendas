@@ -14,8 +14,8 @@ Principais problemas relatados pelo cliente:<br>
 
 ## Detalhamento das vendas
 <img align="left" width="500" height="320" src="https://github.com/MayconJhonatan/Portfolio_Vendas/blob/main/Desing/Dashboard%20Vendas%20detalhamento.png?raw=true">
-A segunda parte do projeto apresenta o detalhamento da venda, abordando os seguintes tópicos:<br>
-- O vendedor;<br>
+A segunda parte do projeto apresenta o detalhamento das vendas,................... abordando os seguintes tópicos:<br>
+- Vendedor;<br>
 - Categoria;<br>
 - Loja;<br>
 - Quantidade;<br>
